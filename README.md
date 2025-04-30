@@ -5,7 +5,6 @@
 ![Deployed](https://img.shields.io/badge/deployed-AWS-blue)
 ![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
 ![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
 
 # AgroCrypto – Auditable Whitepaper
 
